@@ -1,2 +1,3 @@
-# stable-diffusion
-Create art with machine learning and a codespace
+# Stable Diffusion
+
+Create art with machine learning and GitHub Codespaces.
